@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'failed' => 'These credentials do not match our records.',
+    'failed' => 'Estas Credenciales no coinciden con nuestros registros en la BD OpenLDAP.',
     'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
 
 ];
